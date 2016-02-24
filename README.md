@@ -1,2 +1,2 @@
 # DjangoTutorial
-Just a basic DjangoSetupd
+Just a basic DjangoSetup.
